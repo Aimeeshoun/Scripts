@@ -57,7 +57,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\debug.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\Movement.cs" />
+=======
+>>>>>>> master
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Repo/scripts/Scripts/New Unity Project (1)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
