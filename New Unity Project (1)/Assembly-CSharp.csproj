@@ -58,6 +58,7 @@
   <ItemGroup>
      <Compile Include="Assets\debug.cs" />
      <Compile Include="Assets\Movement.cs" />
+     <Compile Include="Assets\Particle.cs" />
      <Compile Include="Assets\Triggerevent.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Repo/scripts/Scripts/New Unity Project (1)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
