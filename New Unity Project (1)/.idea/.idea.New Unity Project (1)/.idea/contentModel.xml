@@ -9,6 +9,7 @@
         <e p="debug.cs" t="Include" />
         <e p="FireFlip.cs" t="Include" />
         <e p="force.cs" t="Include" />
+        <e p="Ifstatment.cs" t="Include" />
         <e p="MonoBehavior.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="Particle.cs" t="Include" />
