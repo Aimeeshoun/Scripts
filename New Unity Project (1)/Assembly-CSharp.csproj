@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\debug.cs" />
+     <Compile Include="Assets\FireFlip.cs" />
      <Compile Include="Assets\force.cs" />
      <Compile Include="Assets\MonoBehavior.cs" />
      <Compile Include="Assets\Movement.cs" />
