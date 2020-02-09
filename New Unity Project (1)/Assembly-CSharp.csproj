@@ -57,10 +57,13 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\debug.cs" />
+     <Compile Include="Assets\force.cs" />
      <Compile Include="Assets\MonoBehavior.cs" />
      <Compile Include="Assets\Movement.cs" />
      <Compile Include="Assets\Particle.cs" />
+     <Compile Include="Assets\SelfDestruct.cs" />
      <Compile Include="Assets\Triggerevent.cs" />
+     <Compile Include="Assets\Vector3Data.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Repo/scripts/Scripts/New Unity Project (1)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
