@@ -59,6 +59,7 @@
      <Compile Include="Assets\CoroutineOne.cs" />
      <Compile Include="Assets\debug.cs" />
      <Compile Include="Assets\FireFlip.cs" />
+     <Compile Include="Assets\FloatData.cs" />
      <Compile Include="Assets\force.cs" />
      <Compile Include="Assets\GameArtData.cs" />
      <Compile Include="Assets\Ifstatment.cs" />
@@ -67,6 +68,7 @@
      <Compile Include="Assets\Particle.cs" />
      <Compile Include="Assets\SelfDestruct.cs" />
      <Compile Include="Assets\Triggerevent.cs" />
+     <Compile Include="Assets\UIcontroller.cs" />
      <Compile Include="Assets\Vector3Data.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Repo/scripts/Scripts/New Unity Project (1)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
