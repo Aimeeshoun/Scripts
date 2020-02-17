@@ -58,6 +58,7 @@
   <ItemGroup>
      <Compile Include="Assets\CoroutineOne.cs" />
      <Compile Include="Assets\debug.cs" />
+     <Compile Include="Assets\Enumswitch.cs" />
      <Compile Include="Assets\FireFlip.cs" />
      <Compile Include="Assets\FloatData.cs" />
      <Compile Include="Assets\force.cs" />
