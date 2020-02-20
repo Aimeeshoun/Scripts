@@ -57,7 +57,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CoroutineOne.cs" />
-     <Compile Include="Assets\debug.cs" />
      <Compile Include="Assets\Enumswitch.cs" />
      <Compile Include="Assets\FireFlip.cs" />
      <Compile Include="Assets\FloatData.cs" />
@@ -66,7 +65,7 @@
      <Compile Include="Assets\Ifstatment.cs" />
      <Compile Include="Assets\MonoBehavior.cs" />
      <Compile Include="Assets\Movement.cs" />
-     <Compile Include="Assets\Particle.cs" />
+     <Compile Include="Assets\ParticleControl.cs" />
      <Compile Include="Assets\SelfDestruct.cs" />
      <Compile Include="Assets\Triggerevent.cs" />
      <Compile Include="Assets\UIcontroller.cs" />
