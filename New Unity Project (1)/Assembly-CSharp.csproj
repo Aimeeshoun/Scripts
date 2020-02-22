@@ -61,6 +61,7 @@
      <Compile Include="Assets\FireFlip.cs" />
      <Compile Include="Assets\FloatData.cs" />
      <Compile Include="Assets\force.cs" />
+     <Compile Include="Assets\GameAction.cs" />
      <Compile Include="Assets\GameArtData.cs" />
      <Compile Include="Assets\Ifstatment.cs" />
      <Compile Include="Assets\MonoBehavior.cs" />

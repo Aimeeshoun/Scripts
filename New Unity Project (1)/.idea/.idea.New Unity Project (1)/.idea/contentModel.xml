@@ -7,15 +7,16 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="CoroutineOne.cs" t="Include" />
-        <e p="debug.cs" t="Include" />
+        <e p="Enumswitch.cs" t="Include" />
         <e p="FireFlip.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="force.cs" t="Include" />
+        <e p="GameAction.cs" t="Include" />
         <e p="GameArtData.cs" t="Include" />
         <e p="Ifstatment.cs" t="Include" />
         <e p="MonoBehavior.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
-        <e p="Particle.cs" t="Include" />
+        <e p="ParticleControl.cs" t="Include" />
         <e p="SelfDestruct.cs" t="Include" />
         <e p="Triggerevent.cs" t="Include" />
         <e p="UIcontroller.cs" t="Include" />
