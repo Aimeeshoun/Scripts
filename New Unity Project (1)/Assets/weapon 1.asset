@@ -9,9 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 251eace000224fd44902098e13158239, type: 3}
-  m_Name: New Game Art Data 1
+  m_Script: {fileID: 11500000, guid: e1a8bc739430329499416ea4428116a9, type: 3}
+  m_Name: weapon 1
   m_EditorClassIdentifier: 
   sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
-  spriteColor: {r: 0.9056604, g: 0.27340692, b: 0.5031407, a: 0}
-  prefab: {fileID: 238904851775172991, guid: be4d691dbfd6a164db83af4737ec6be7, type: 3}
+  spriteColor: {r: 0, g: 0, b: 0, a: 0}
+  prefab: {fileID: 0}
+  weaponName: 
