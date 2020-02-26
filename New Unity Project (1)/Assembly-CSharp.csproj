@@ -71,6 +71,7 @@
      <Compile Include="Assets\Triggerevent.cs" />
      <Compile Include="Assets\UIcontroller.cs" />
      <Compile Include="Assets\Vector3Data.cs" />
+     <Compile Include="Assets\WeaponData.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Repo/scripts/Scripts/New Unity Project (1)/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
