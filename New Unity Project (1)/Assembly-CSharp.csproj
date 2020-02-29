@@ -68,6 +68,7 @@
      <Compile Include="Assets\Ifstatment.cs" />
      <Compile Include="Assets\MonoBehavior.cs" />
      <Compile Include="Assets\Movement.cs" />
+     <Compile Include="Assets\Movement1.cs" />
      <Compile Include="Assets\ParticleControl.cs" />
      <Compile Include="Assets\SelfDestruct.cs" />
      <Compile Include="Assets\Triggerevent.cs" />
