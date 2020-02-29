@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\CharacterArtData.cs" />
+     <Compile Include="Assets\coinpickup.cs" />
      <Compile Include="Assets\CoroutineOne.cs" />
      <Compile Include="Assets\Enumswitch.cs" />
      <Compile Include="Assets\FireFlip.cs" />
