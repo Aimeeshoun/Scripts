@@ -70,6 +70,7 @@
      <Compile Include="Assets\Movement.cs" />
      <Compile Include="Assets\Movement1.cs" />
      <Compile Include="Assets\ParticleControl.cs" />
+     <Compile Include="Assets\Particles.cs" />
      <Compile Include="Assets\SelfDestruct.cs" />
      <Compile Include="Assets\Triggerevent.cs" />
      <Compile Include="Assets\UIcontroller.cs" />
