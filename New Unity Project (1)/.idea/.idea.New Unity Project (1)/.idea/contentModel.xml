@@ -23,6 +23,7 @@
         <e p="Particles.cs" t="Include" />
         <e p="SelfDestruct.cs" t="Include" />
         <e p="Triggerevent.cs" t="Include" />
+        <e p="TriggerEvent1.cs" t="Include" />
         <e p="UIcontroller.cs" t="Include" />
         <e p="Vector3Data.cs" t="Include" />
         <e p="WeaponData.cs" t="Include" />
