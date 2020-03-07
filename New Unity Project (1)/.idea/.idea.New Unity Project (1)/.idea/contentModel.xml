@@ -9,6 +9,7 @@
         <e p="CharacterArtData.cs" t="Include" />
         <e p="coinpickup.cs" t="Include" />
         <e p="CoroutineOne.cs" t="Include" />
+        <e p="dESTROY.cs" t="Include" />
         <e p="Enumswitch.cs" t="Include" />
         <e p="FireFlip.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
