@@ -67,6 +67,7 @@
      <Compile Include="Assets\GameAction.cs" />
      <Compile Include="Assets\GameArtData.cs" />
      <Compile Include="Assets\Ifstatment.cs" />
+     <Compile Include="Assets\instaciate.cs" />
      <Compile Include="Assets\MonoBehavior.cs" />
      <Compile Include="Assets\Movement.cs" />
      <Compile Include="Assets\Movement1.cs" />

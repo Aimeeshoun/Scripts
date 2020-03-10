@@ -17,6 +17,7 @@
         <e p="GameAction.cs" t="Include" />
         <e p="GameArtData.cs" t="Include" />
         <e p="Ifstatment.cs" t="Include" />
+        <e p="instaciate.cs" t="Include" />
         <e p="MonoBehavior.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="Movement1.cs" t="Include" />
