@@ -149,12 +149,14 @@
         <e p="Ifstatment.cs" t="Include" />
         <e p="ImageControl.cs" t="Include" />
         <e p="instaciate.cs" t="Include" />
+        <e p="IntData.cs" t="Include" />
         <e p="MonoBehavior.cs" t="Include" />
         <e p="Movement.cs" t="Include" />
         <e p="Movement1.cs" t="Include" />
         <e p="ParticleControl.cs" t="Include" />
         <e p="Particles.cs" t="Include" />
         <e p="SelfDestruct.cs" t="Include" />
+        <e p="TextControl.cs" t="Include" />
         <e p="Triggerevent.cs" t="Include" />
         <e p="TriggerEvent1.cs" t="Include" />
         <e p="TriggerEvent2.cs" t="Include" />

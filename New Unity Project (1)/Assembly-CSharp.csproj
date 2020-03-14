@@ -122,6 +122,7 @@
      <Compile Include="Assets\Ifstatment.cs" />
      <Compile Include="Assets\ImageControl.cs" />
      <Compile Include="Assets\instaciate.cs" />
+     <Compile Include="Assets\IntData.cs" />
      <Compile Include="Assets\MonoBehavior.cs" />
      <Compile Include="Assets\Movement.cs" />
      <Compile Include="Assets\Movement1.cs" />
